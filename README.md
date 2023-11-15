@@ -1,1 +1,2 @@
-# CS50-finance
+# C$50 Finance
+
